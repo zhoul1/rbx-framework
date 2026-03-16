@@ -1,0 +1,26 @@
+
+[38;5;8mnidoxs/[39mprofileservice[38;5;8m@[38;5;10m1.0.0[39m
+    ProfileService port from MadStudioRoblox/ProfileService
+
+[38;5;8malreadypro/[39mprofileservice[38;5;8m@[38;5;10m1.0.4[39m
+    A fork of MadStudioRoblox/ProfileService
+
+[38;5;8mitsnuaz/[39mprofileservice[38;5;8m@[38;5;10m1.0.2[39m
+    A fork of MadStudioRoblox/ProfileService
+
+[38;5;8myadbro/[39mprofileservice[38;5;8m@[38;5;10m1.0.0[39m
+    A fork of MadStudioRoblox/ProfileService
+
+[38;5;8msamuzen/[39mprofileservice[38;5;8m@[38;5;10m1.0.2[39m
+    Fork of ProfileService by MadStudioRoblox. https://github.com/MadStudioRoblox/ProfileService. All credits to MadStudioRoblox. No modifications were made to ProfileService
+
+[38;5;8mbestyear20/[39mprofileservice[38;5;8m@[38;5;10m1.0.2[39m
+    A fork of MadStudioRoblox/ProfileService, forked by LD
+
+[38;5;8moctale/[39mprofileservice[38;5;8m@[38;5;10m0.0.1[39m
+    A fork of MadStudioRoblox/ProfileService, for use in Wally
+
+[38;5;8mrobloxiandemo/[39mprofileservice-demo[38;5;8m@[38;5;10m0.1.4[39m
+    A fork of Loleris' ProfileService (MadStudioRoblox/ProfileService), which has built-in compatiblity for usage with Wally.
+
+

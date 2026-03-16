@@ -1,0 +1,13 @@
+std = "roblox"
+
+[rules]
+unused_variable = "warn"
+shadowing = "warn"
+unscoped_variables = "deny"
+incorrect_standard_library_use = "warn"
+divide_by_zero = "warn"
+undefined_variable = "deny"
+deprecated = "warn"
+global_usage = "warn"
+empty_if = "warn"
+suspicious_reverse_loop = "warn"

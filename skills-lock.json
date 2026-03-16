@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "roblox-game": {
+      "source": "brockmartin/roblox-game-skill",
+      "sourceType": "github",
+      "computedHash": "8979122f1f36aa0dd31882d6b42ef6e9b1f75d0f6d4e676880bcdd20460c409e"
+    }
+  }
+}
