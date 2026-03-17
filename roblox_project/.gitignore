@@ -17,3 +17,6 @@ Thumbs.db
 
 /build/
 /dist/
+
+.agents/
+.agent/
