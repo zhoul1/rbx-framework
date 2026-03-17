@@ -1,12 +1,9 @@
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
-local ServerScriptService = game:GetService("ServerScriptService")
-
 local Knit = require(ReplicatedStorage.Packages.Knit)
 
--- 载入服务端微服务容器
 Knit.AddServices(script:WaitForChild("Services"))
 
--- 启动单例框架
 Knit.Start():andThen(function()
-    print("[Knit] Server instance initialized and ready.")
+	print("[Knit] Server started - Sokoban Game ready!")
+	print("[Version Check] Build Time: 2026-03-17 08:52:00 - YELLOW TARGETS")
 end):catch(warn)
